@@ -8,16 +8,16 @@ such as Wolfram Alpha, Wikipedia, OpenWeather etc.
 SURM is short form of the term: Simplified Up-to Recognizable Modules.
 We'll talk about the term later.
 Examples Commands:
-(1) Please select any option Ram,Sam,Zodu,Modhu
-(2) Can you Select any number from -670 to -9850
-(3) Can you turn on Bluetooth
-(4) Please calculate 150 + Sin(45)
-(5) What is the population of Kolkata
-(6) Give me a random fact
-(7) Give me information about Sum
-(8) Count -50,50,9.5 
-(9) Take a selfie
-(10) Open youtube
+(1) Please select any option Ram,Sam,Zodu,Modhu;
+(2) Can you Select any number from -670 to -9850;
+(3) Can you turn on Bluetooth;
+(4) Please calculate 150 + Sin(45);
+(5) What is the population of Kolkata;
+(6) Give me a random fact;
+(7) Give me information about Sum;
+(8) Count -50,50,9.5;
+(9) Take a selfie;
+(10) Open youtube;
 And many more....
 
 .............................................................................................................................................................................................................................................
