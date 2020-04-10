@@ -1,0 +1,58 @@
+for wifi        --->wifi */* wifi */* wifi/wifi/wi-fi */* wi-fi */* wi-fi/wi-fi
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+
+for bluetooth   --->bluetooth */* bluetooth */* bluetooth/bluetooth/blue-tooth */* blue-tooth */* blue-tooth/blue-tooth
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+	  
+for calculation --->calculate */* calculate */* calculate/calculate/calculation */* calculation */* calculation/calculation/sum of */* sum of */* sum of/sum of/total of */* total of */* total of/total of/solve */* solve */* solve/solve/math */* math */* math/math/calculator */* calculator */* calculator/calculator
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for dial        --->dial */* dial */* dial/dial/dial screen */* dial screen */* dial screen/dial screen
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for call        --->call */* call */* call/call/call screen */* call screen */* call screen/call screen
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for photo capture -->take */* take */* take/capture */* capture */* capture
+   [and match]         --->photo */* photo */* photo/picture */* picture */* picture/selfie */* selfie */* selfie
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for opeing apps/urls--->open */* open */* open/launch */* launch */* launch/go to */* go to */* go to/browse */* browse */* browse/run */* run */* run
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for remember     --->remember */* remember */* remember/remember/set */* set */* set/set/save */* save */* save/save/take */* take */* take/take/note */* note */* note/note
+   [and does not match]--->default */* default */* default
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for play music   --->play */* play */* play/sing */* sing */* sing/listen */* listen */* listen
+   [and match]         --->music */* music */* music/audio */* audio */* audio/mp3 */* mp3 */* mp3/song */* song */* song
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+
+for stop music   --->stop */* stop */* stop/silent */* silent */* silent/cancel */* cancel */* cancel/pause */* pause */* pause
+   [and match]         --->music */* music */* music/audio */* audio */* audio/mp3 */* mp3 */* mp3/song */* song */* song
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for counting   --->count */* count */* count/count/counting */* counting */* counting/counting/counter */* counter */* counter/counter
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for getinformation>wikipedia */* wikipedia */* wikipedia/wikipedia/information */* information */* information/information
+   [and does not match]--->search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce/current information */* current information */* current information
+
+for decision making>pick */* pick */* pick/pick/select */* select */* select/select/choose */* choose */* choose/choose/decide */* decide */* decide/decide/decision */* decision */* decision/decision
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for pronunciation ->pronounce */* pronounce */* pronounce/pronounce
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research
+
+for see notes   --->notes */* notes */* notes/notes
+   [and match]  --->show */* show */* show/display */* display */* display/reveal */* reveal */* reveal/list */* list */* list/number of */* number of */* number of/no. of */* no. of */* no. of
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+
+for set to default->reset */* reset */* reset/reset/forget */* forget */* forget/forget/delete */* delete */* delete/delete/set to default */* set to default */* set to default/set to default/remove */* remove */* remove/remove/undo set */* undo set */* undo set/undo set/unset */* unset */* unset/unset/clear */* clear */* clear/clear
+   [and does not match]--->wikipedia */* wikipedia */* wikipedia/information */* information */* information/search */* search */* search/find */* find */* find/look for */* look for */* look for/research */* research */* research/pronounce */* pronounce */* pronounce/pronounce
+   
+for screen share--->share */* share */* share/copy */* copy */* copy/send */* send */* send/capture */* capture */* capture
+
+for search      --->search */* search */* search/search/find */* find */* find/find/look for */* look for */* look for/look for/research */* research */* research/research
+
+for jokes/facts       --->joke */* joke */* joke/joke/jokes */* jokes */* jokes/jokes/fact */* fact */* fact/fact/facts */* facts */* facts/facts/bored */* bored */* bored/bored

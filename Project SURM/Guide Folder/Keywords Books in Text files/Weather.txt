@@ -1,0 +1,10 @@
+
+For current location:-->
+of */* of */* of/at */* at */* at/in */* in */* in
+[and]
+current location */* current location */* current location
+
+For user specified location:-->
+of */* of */* of/at */* at */* at/in */* in */* in
+[and NOT]
+current location */* current location */* current location

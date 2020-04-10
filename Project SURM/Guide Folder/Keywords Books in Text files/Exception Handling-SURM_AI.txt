@@ -1,0 +1,28 @@
+for introducing -->yourself */* yourself */* yourself/yourself/about */* about */* about/you do */* you do */* you do/you do/help */* help */* help/surm */* surm */* surm/surm
+
+
+for date -->date */* date */* date/date
+
+
+for time -->time */* time */* time/time
+
+
+for hi-hello -->hello */* hello */* hello/hello/hii */* hii */* hii/hii/hi */* hi */* hi/hi/hey */* hey */* hey/hey
+
+
+for i am fine -->fine */* fine */* fine/fine/good */* good */* good/good
+
+
+for how are you -->how are you */* how are you */* how are you/how are you
+
+
+for what is your name -->your name */* your name */* your name/your name/you */* you */* you/you
+
+
+for what is my name -->my name */* my name */* my name/my name/i */* i */* i/i
+
+
+for weather -->weather */* weather */* weather/weather/forecast */* forecast */* forecast/forecast
+
+
+for else & everything -->
