@@ -38,11 +38,11 @@ https://www.facebook.com/a.new.way.technical/
 
 About source project:
 
- This application is made with Tasker
-(https://play.google.com/store/apps/details?id=net.dinglisch.android.t
-askerm) and with Tasker app factory
-(https://play.google.com/store/apps/details?id=net.dinglisch.android.a
-ppfactory ). To install and run 'SURM' you will not need any of this
+ This application is made with Tasker:
+(https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
+and with Tasker app factory:
+(https://play.google.com/store/apps/details?id=net.dinglisch.android.appfactory ).
+To install and run 'SURM' you will not need any of this
 application. However, if you want to ‘view’ or ‘modify’ source file you
 'will need' Tasker application and if you want to 'export your own
 modification' then you 'will need both' Tasker and its extension app
